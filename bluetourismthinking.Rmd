@@ -1,0 +1,95 @@
+---
+title: "Brainstorming Blue Tourism Project"
+output: 
+  blastula::blastula_email
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, include=FALSE}
+et <-"Environment Tobago"
+```
+
+```{r, include=FALSE}
+canari <-"Caribbean Natural Resources Institute"
+```
+```{r, include=FALSE}
+thata <-"Tobago Hotel and Tourism Association"
+```
+
+
+## Blue Tourism project thinking
+
+
+July 2022 begins the [Blue Tourism project](https://docs.google.com/document/d/1I1a2MJBuwi8QvNvYdxz1FpRRgXh214d1/edit?uscp=sharing&ouid=104863927680267975541&rtpof=true&sd=true). What are my thoughts such that ET can add value? 
+
+
+
+**Why** 
+
+The Blue Tourism project is a French Global Environment funded (FGEF) pilot project seeking to identify sustainable practice in the marine tourism sub-sector within the Mediterranean, Caribbean and West Indian Ocean. Its scheduled to run over 4 years beginning July 2022 with a budget of 4,325.900 euro.
+
+To date Tobago has been selected as the Caribbean site, `r canari` to act as this regions' implementer. Prior to the final choice of pilot sites conversations occurred  between `et` and CANARI intended to slant the outcome our way. This brief confirms we were lucky. But it is also intended to keep the reader in the loop as regards project development. To avoid getting  the reader is advised to familiarise himself/herself with resource documents provided (via hyperlink).
+
+
+Given that tourism in Tobago is shadow-managed by the `r thata` I chatted with Chris James (THATA Pres.) in order to foster the group's support And, to invite him to first brainstorm session with Nicole Tardieu (CANARI CEO). Going in to that session (carded for Tuesday 25th Jan 2022) we all agree [inherent issues](#) are the bane of Tobago's progress in the tourism sector. Chris would like to align the Blue Tourism project output with a few things already in train at the Hoteliers Association. Loosely I would agree, allowing those works should be 'sustainable Blue Economy'. Before looking at what we may talk about let's quickly examine the **key objectives of the project**.
+
+1. To draw up an inventory of coastal tourism, to survey the changes desired by its actors and to identify possible synergies for a sustainable management of blue tourism
+
+2. To orient local tourism development strategies towards sustainable blue tourism in pilot sites
+
+3. To support the implementation of action plans and fund pilot projects in pilot sites
+
+4. To monitor, evaluate and capitalise on the local implementation of exemplary blue tourism projects initiated by civil society actors
+
+5. To integrate sustainable tourism on a regional scale, to share feedback and to raise awareness among stakeholders
+
+
+### Program content
+
+The project is structured around three components
+
+Component 1  [*Short name: Diagnosis*]
+: Assess the economic, environmental and social impacts of the Covid crisis on tourism at different scales and identify levers for a sustainable recovery
+
+<!-- The tourism sector is deeply affected by the current health crisis, with numerous consequences, particularly in economic and social terms. The aim is to establish a diagnosis of some of these impacts, both on a global scale and in the three regions targeted by the project, and to identify levers for a sustainable recovery of the sector. A methodological approach and a set of best practices for implementing sustainable blue tourism management will conclude these diagnoses. Then, a specific diagnosis will be conducted at each identified pilot sites, including a specific adaptation of the blue tourism implementation methodology.-->
+
+
+Component 2 [*Short name: Pilot projects*]
+: Encourage the development of sustainable blue tourism at the pilot site level through the planning and implementation of pilot projects 
+
+
+<!-- In each pilot site, new tourism planning strategies will be set up in conjunction with the public authorities, the private sector and civil society concerns, resulting in a road map for each site. Help will be provided for the implementation of these road maps by advising, capacity building and granting of pilot projects. This granting will finance small pilot projects of pre-selected actors on the basis of transparent selection criteria. A mechanism of calls for proposal might be set up if relevant. -->
+
+Component 3  [*Short name: Awareness, communication and feedback*]
+: Integrate sustainable tourism into the agenda of marine regions, promote the sharing of experiences and include sustainable tourism issues in the public debate
+
+<!--
+This component aims to include sustainable tourism in the agenda of the Barcelona (Mediterranean), [Cartagena (Caribbean)](https://wedocs.unep.org/bitstream/handle/20.500.11822/27875/SPAWSTAC5_2012-en.pdf?sequence=1&amp;isAllowed=y) and Nairobi (Western Indian Ocean) conventions to enable their States Parties and regular partners (NGOs, researchers, etc.) to draw up the outlines of possible regional collaborations and strategies. Component 3 is also dedicated to Communication and Dissemination of project results to key players in global, regional and national tourism. -->
+
+
+<!--
+Further he's revealed to me there is work ongoing to their website (funded by the IDB) which will position them as the 'go to' for booking in Tobago. To which end they will also employ a consultant to bring them up to speed on how to deploy social media (outreach and interative vanguard) reinforcing the content management system at the root of their platform. -->
+
+**What** 
+: Therefore what shall be ET's role in bringing about projects' objectives? Ostensibly that would be to facilitate 'Data gather' tasks (i.e. working alongside stakeholders, drawing up a contemporary baseline of natural coastal and marine assets incl: wetlands, reefs fisheries and drilling operations). Saying so then, the pilot part of this requires little beyond a portable database, AIS tracking ^[Automatic Information System (AIS) is a signaling (sensor) system for vessels to share various information about ship location, speed, and status and other relevant information.] and deploying hard assets out to gather that data AND the source/s are marine interest stakeholders/places. In sum the project will need boat, link to fishers and divers, digital tech team and a project base. 
+
+
+**How**
+: Obviously (to me anyway) the method of ET getting into this play meaningfully requires the formal attribution of 'ET Marine', a concept first presented to Environment Tobago at strategic planning for fiscal period 2019-24. Granted, a lot has transpired to effectively slow those plans but perhaps the Blue Tourism project is just what the doctor ordered.
+
+**Who**
+: Caribbean Natural Resources Institute as implementer, ET(Marine) as on-island coordinator, Tobago Hotel and Tourism Association(Environment sub-committee), THA/Fisheries Div, THA/Tourism Div. (*Want to keep this list short and lively*.) A default stakeholder is the Institute of Marine Affairs whose prior appointed function is Regional Activities Coordinator for the Cartagena Convention.
+
+### Caution. Brainstorm in progress.
+
+1. Portable databases (Interoperable with top CMSs)
+2. Tracking coastal assets and marine interests in the Exclusive Economic Zone with an [Automatic Information System](https://www.marinetraffic.com/blog/ais-faq/) platform (includes drones for reef security, mangrove diebacks, sargassum piles etc)
+3. Pacemaker? <!--  Opportunity limited by time https://earthjournalism.net/opportunities/coastal-resilience-story-grants-2022 -->
+4. 
+
+<!--At  a time  when  several government  initiatives to  rescue the  sector  are being  launched,  it is now  critical to  reflect on the  future  of  tourism  and rapidly  develop  new practices compatible with  the  requirements  of  the  21st  century.  In  this  context, it  is  striking  to  note  that  the emergency  measures recently  deployed,  as well as the  broader  discussions on  the  future  of the sector, are mainly carried out  at the country  level, despite the inherently  global nature  of the  industry.  Tourism  thus  remains  the  focus of  national  and  local policies, without  any  real multilateral coordination  or  exchange of good practices.   This  unprecedented    crisis  provides   a   unique   opportunity   to   open   discussions  on   the transformation  of  the  tourism  model,  identify  ways  to strengthen  the  sustainability of  the sector, and foster the  emergence of new  practices. -->
